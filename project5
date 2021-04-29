@@ -1,0 +1,24 @@
+#Selects the livestock ID numbers of those who were cared for by a farmworker 
+#whose beehive has a frame of at least 3.
+
+#Selects the barcode of produce harvested by a farmworker whose Livestock 
+#consumers ‘grass” type feed.
+
+#Selects produce of type ‘fruit’ harvested by a farmworker with more than 
+#1 year of experience.
+
+
+#Selects the names of customers who did not purchase produce harvested by 
+#an employee who made more than $15,000.
+
+#Selects the names of customers who did not purchase produce harvested before 3/20/2021.
+
+#Selects the barcode of produce that was not harvested by a farmworker who
+#works with bees.
+
+#Selects the livestock ID numbers who are not cared for by a ‘manager.’
+
+#Selects the type and barcode of produce whose price is less than the maximum 
+#of all prices.
+
+#Selects the produce barcode of produce whose customers purchased at least 3 of it.
